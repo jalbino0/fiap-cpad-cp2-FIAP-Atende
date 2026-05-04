@@ -146,6 +146,7 @@ https://github.com/jalbino0/fiap-cpad-cp2-FIAP-Atende.git
 git clone https://github.com/jalbino0/fiap-cpad-cp2-FIAP-Atende.git
 cd fiap-cpad-cp2-FIAP-Atende
 npm install
+npx expo install @react-native-async-storage/async-storage
 npx expo start
 ```
 
